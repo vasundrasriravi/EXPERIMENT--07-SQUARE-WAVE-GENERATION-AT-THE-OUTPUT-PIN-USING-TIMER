@@ -243,14 +243,15 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
  
- ![Screenshot 2023-05-30 194959](https://github.com/vasundrasriravi/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393983/03bb5453-39a7-436e-8476b7bef22aae4)
+![Screenshot 202](https://github.com/vasundrasriravi/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393983/9b536363-3fb0-4a12-a03e49d7cc7a40d)
+
 
  
  
- ![Screenshot 2023-05-30 195332](https://github.com/vasundrasriravi/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393983/5ebb3393-7761-424d-a440457608f69b0)
+ ![Screenshot 20](https://github.com/vasundrasriravi/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393983/5ebb3393-7761-424d-a440457608f69b0)
 
  
- ![Screenshot 2023-05-30 195520](https://github.com/vasundrasriravi/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393983/271a89c4-7a53-465c-b818a591ebcd02e)
+ ![Screenshot 2](https://github.com/vasundrasriravi/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393983/271a89c4-7a53-465c-b818a591ebcd02e)
 
  
  
