@@ -243,14 +243,16 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
  
-![Screenshot 202](https://github.com/vasundrasriravi/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393983/9b536363-3fb0-4a12-a03e49d7cc7a40d)
+![circuit 1](https://github.com/vasundrasriravi/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393983/4205ba7f-099f-4af1-9911-1615bd37cb27)
 
- 
- ![Screenshot 20](https://github.com/vasundrasriravi/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393983/5ebb3393-7761-424d-a440457608f69b0)
 
- 
- ![Screenshot 2](https://github.com/vasundrasriravi/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393983/271a89c4-7a53-465c-b818a591ebcd02e)
- 
+![circuit 2](https://github.com/vasundrasriravi/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393983/4ef8c179-9669-4f55-9b61-275dbc881111)
+
+
+![circuit 3](https://github.com/vasundrasriravi/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393983/774eb294-7780-44f7-8aba-270b13837201)
+
+
+
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  ![circuit ](https://github.com/vasundrasriravi/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393983/55bce779-df86-4e4d-85c4-101d47c61dc2)
