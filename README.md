@@ -245,15 +245,11 @@ void assert_failed(uint8_t *file, uint32_t line)
  
 ![Screenshot 202](https://github.com/vasundrasriravi/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393983/9b536363-3fb0-4a12-a03e49d7cc7a40d)
 
-
- 
  
  ![Screenshot 20](https://github.com/vasundrasriravi/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393983/5ebb3393-7761-424d-a440457608f69b0)
 
  
  ![Screenshot 2](https://github.com/vasundrasriravi/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393983/271a89c4-7a53-465c-b818a591ebcd02e)
-
- 
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
