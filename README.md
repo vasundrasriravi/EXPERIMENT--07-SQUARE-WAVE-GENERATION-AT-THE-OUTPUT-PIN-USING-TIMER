@@ -242,13 +242,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
- 
+## FOR PULSE AT 500
 ![circuit 1](https://github.com/vasundrasriravi/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393983/4205ba7f-099f-4af1-9911-1615bd37cb27)
 
-
+## FOR PULSE AT 700
 ![circuit 2](https://github.com/vasundrasriravi/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393983/4ef8c179-9669-4f55-9b61-275dbc881111)
 
-
+## FOR PULSE AT 900
 ![circuit 3](https://github.com/vasundrasriravi/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393983/774eb294-7780-44f7-8aba-270b13837201)
 
 
